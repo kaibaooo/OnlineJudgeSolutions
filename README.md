@@ -1,1 +1,1 @@
-# UVAProblemSolutions
+# Online Judges Solutions
